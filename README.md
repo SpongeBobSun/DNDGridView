@@ -73,4 +73,5 @@ In short word, your view holder MUST extends `DNDViewHolder`
 	}
 	
 ##Screenshot
+Picture file size is 1.6MB so you may want to get yourself a cup of coffee while it's loading.
 ![Alt ](./screenshot/shot.gif)
