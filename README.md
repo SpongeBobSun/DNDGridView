@@ -1,10 +1,10 @@
-#DNDGridView
+# DNDGridView
 
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-DNDGridView-green.svg?style=flat)](https://android-arsenal.com/details/1/2385)
 
 Drag & Drop GridView on Android.
 
-##Poject Components
+## Poject Components
 
 DNDGridView provide below components.
 
@@ -12,9 +12,9 @@ DNDGridView provide below components.
 * DNDAdapter, most of the drag & drop part is done in this file.
 * DNDViewHolder, provide ViewHolder which can save current view's position.
 
-##Project Structure
+## Project Structure
 After checkout this repo, you will get a sample project and the DNDGridView module is located in `dndgridview` folder.
-##Usage
+## Usage
 
 To use DNDGridView, you need to add it in layout xml file or Java code.
 
@@ -75,6 +75,6 @@ In short word, your view holder MUST extends `DNDViewHolder`
     	TextView textView;
 	}
 	
-##Screenshot
+## Screenshot
 Picture file size is 1.6MB so you may want to get yourself a cup of coffee while it's loading.
 ![Alt ](./screenshot/shot.gif)
